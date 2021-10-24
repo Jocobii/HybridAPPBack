@@ -1,0 +1,162 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 34,
+    "credits_remaining": 66,
+    "credits_used_this_request": 1
+  },
+  "request_metadata": {
+    "created_at": "2021-10-24T05:56:05.358Z",
+    "processed_at": "2021-10-24T05:56:09.836Z",
+    "total_time_taken": 4.48,
+    "walmart_url": "https://www.walmart.com/ip/19586055"
+  },
+  "request_parameters": {
+    "type": "product",
+    "item_id": "19586055"
+  },
+  "product": {
+    "brand": "Elmer's",
+    "manufacturer": "Elmers/X-Acto",
+    "link": "https://www.walmart.com/ip/Painters-Medium-Point-Black-Permanent-Paint-Pen-1-Each/19586055",
+    "title": "Elmer's Painters Medium Point Black Permanent Paint Pen, 1 Each",
+    "upc": "079946073270",
+    "item_id": "19586055",
+    "product_id": "WA7327",
+    "item_number": "6VPZFGXIVX39",
+    "description": "Painters pens are perfect for personalizing backpacks, shoes, toys, vases, cups and more. This marker is easy to use, with no mess to mix, no brushes or containers to clean. Simply shake and depress the nib until the paint flows and you are ready to paint. This opaque acrylic paint marker makes decorating quick and fun! It's ideal for use on wood, plastic, clay, glass, metal, foam board, fabric, ceramic and much more. Permanent and streak free, non-toxic, acid free and quick to dry.",
+    "description_html": "Painters pens are perfect for personalizing backpacks, shoes, toys, vases, cups and more. This marker is easy to use, with no mess to mix, no brushes or containers to clean. Simply shake and depress the nib until the paint flows and you are ready to paint. This opaque acrylic paint marker makes decorating quick and fun! It's ideal for use on wood, plastic, clay, glass, metal, foam board, fabric, ceramic and much more. Permanent and streak free, non-toxic, acid free and quick to dry.",
+    "description_full": "Painters pens are perfect for personalizing backpacks, shoes, toys, vases, cups and more. This marker is easy to use, with no mess to mix, no brushes or containers to clean. Simply shake and depress the nib until the paint flows and you are ready to paint. This opaque acrylic paint marker makes decorating quick and fun! It's ideal for use on wood, plastic, clay, glass, metal, foam board, fabric, ceramic and much more. Permanent and streak free, non-toxic, acid free and quick to dry. * Works great on any surface: wood, glass, ceramic, foam board, plastic, metal, paper, cardstock, fabric and much more\n * Nontoxic, permanent, and streak-free acrylic paint\n * Black opaque ink\n * Fast drying and easy to use\n * Nontoxic and acid-free",
+    "description_full_html": "Painters pens are perfect for personalizing backpacks, shoes, toys, vases, cups and more. This marker is easy to use, with no mess to mix, no brushes or containers to clean. Simply shake and depress the nib until the paint flows and you are ready to paint. This opaque acrylic paint marker makes decorating quick and fun! It's ideal for use on wood, plastic, clay, glass, metal, foam board, fabric, ceramic and much more. Permanent and streak free, non-toxic, acid free and quick to dry. <ul>   <li>Works great on any surface: wood, glass, ceramic, foam board, plastic, metal, paper, cardstock, fabric and much more</li>   <li>Nontoxic, permanent, and streak-free acrylic paint</li>   <li>Black opaque ink</li>   <li>Fast drying and easy to use</li>   <li>Nontoxic and acid-free</li>  </ul>",
+    "model": "WA7327",
+    "ratings_total": 16,
+    "rating": 4.9,
+    "type": "Markers",
+    "main_image": {
+      "link": "https://i5.walmartimages.com/asr/4fc8cfc2-576b-4161-8655-4d85923da7a0.cc3431ea3359a4b202371132aa945ddd.jpeg"
+    },
+    "images": [
+      {
+        "link": "https://i5.walmartimages.com/asr/4fc8cfc2-576b-4161-8655-4d85923da7a0.cc3431ea3359a4b202371132aa945ddd.jpeg",
+        "id": "6013213E3CC54E02820CE049D550F01D",
+        "zoomable": true
+      },
+      {
+        "link": "https://i5.walmartimages.com/asr/6c3eb53c-12b3-4467-9538-9ecc0c1a3761.525b636548b1e7ebcf5cc90d71fe43dc.jpeg",
+        "id": "CA0A27A9C5A9467EA1735C0EF9B25A5F",
+        "zoomable": true
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Arts Crafts & Sewing",
+        "link": "https://www.walmart.com/cp/1334134"
+      },
+      {
+        "name": "Art Supplies",
+        "link": "https://www.walmart.com/cp/5899871"
+      },
+      {
+        "name": "Art & Drawing Markers",
+        "link": "https://www.walmart.com/cp/9862357"
+      },
+      {
+        "name": "Paint Markers",
+        "link": "https://www.walmart.com/cp/8477888"
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "This is an aftermarket of generic part"
+      },
+      {
+        "name": "Brand",
+        "value": "Elmer's"
+      },
+      {
+        "name": "Assembled Product Weight",
+        "value": "0.06 lbs"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "WA7327"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Condition",
+        "value": "New"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Elmers/X-Acto"
+      },
+      {
+        "name": "Model",
+        "value": "WA7327"
+      },
+      {
+        "name": "Ink Color",
+        "value": "Black"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "1.88 x 0.62 x 7.50 Inches"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.24,
+      "currency_symbol": "$",
+      "id": "B4336686451F47B98862BDDA95B88779",
+      "seller": {
+        "name": "Walmart.com",
+        "id_secondary": "F55CDC31AB754BB68FE0B39041159D63",
+        "id": "F55CDC31AB754BB68FE0B39041159D63"
+      },
+      "fulfillment": {
+        "pickup": true,
+        "delivery_from_store": true,
+        "shipping": false,
+        "message": "Delivery from store to Bentonville, 72712",
+        "zipcode": "72712"
+      },
+      "availability": {
+        "raw": "IN_STOCK",
+        "in_stock": true,
+        "preorder": false
+      }
+    },
+    "color": "Black",
+    "dimensions": "1.88 x 0.62 x 7.50 Inches",
+    "variants": [
+      {
+        "item_id": "19586055",
+        "product_id": "WA7327",
+        "link": "https://www.walmart.com/ip/Painters-Medium-Point-Black-Permanent-Paint-Pen-1-Each/19586055",
+        "price": 2.24,
+        "in_stock": true,
+        "images": [
+          {
+            "link": "https://i5.walmartimages.com/asr/4fc8cfc2-576b-4161-8655-4d85923da7a0.cc3431ea3359a4b202371132aa945ddd.jpeg",
+            "id": "6013213E3CC54E02820CE049D550F01D",
+            "zoomable": true
+          },
+          {
+            "link": "https://i5.walmartimages.com/asr/6c3eb53c-12b3-4467-9538-9ecc0c1a3761.525b636548b1e7ebcf5cc90d71fe43dc.jpeg",
+            "id": "CA0A27A9C5A9467EA1735C0EF9B25A5F",
+            "zoomable": true
+          }
+        ]
+      }
+    ]
+  },
+  "location_info": {
+    "city": "Bentonville",
+    "state": "AR",
+    "zipcode": "72712",
+    "store_id": "100"
+  }
+}

@@ -1,0 +1,2732 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 5,
+        "credits_remaining": 95,
+        "credits_used_this_request": 1
+    },
+    "request_metadata": {
+        "created_at": "2021-10-23T20:50:45.318Z",
+        "processed_at": "2021-10-23T20:51:11.224Z",
+        "total_time_taken": 25.91,
+        "amazon_url": "https://www.amazon.com.mx/s/?k=libreta&ref=nb_sb_noss_2"
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.com.mx",
+        "search_term": "libreta"
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "Libreta Trend cuaderno clásico 80 hojas rayadas papel óptico. Color Azul claro",
+            "asin": "B08C75VZBD",
+            "link": "https://www.amazon.com.mx/Libreta-cuaderno-cl%C3%A1sico-rayadas-%C3%B3ptico/dp/B08C75VZBD/ref=sr_1_1?dchild=1&keywords=libreta&qid=1635022267&sr=8-1",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51GcoONcumL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 132,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 189,
+                    "currency": "MXN",
+                    "raw": "$189.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 189,
+                "currency": "MXN",
+                "raw": "$189.00"
+            }
+        },
+        {
+            "position": 2,
+            "title": "Amazon Basics - Cuaderno clásico de 120 hojas, color negro, rayado",
+            "asin": "B01DN8TCEU",
+            "link": "https://www.amazon.com.mx/AmazonBasics-NH130210120V-R-AmazonBasics-Cuaderno-cl%C3%A1sico-rayadas/dp/B01DN8TCEU/ref=sr_1_2?dchild=1&keywords=libreta&qid=1635022267&sr=8-2",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71YRwuzCdCL._AC_UL320_.jpg",
+            "bestseller": {
+                "link": "https://www.amazon.com.mx/gp/bestsellers/officeproduct/11601211011/ref=sr_bs_1_11601211011_1",
+                "category": "en Cuadernos"
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 14576,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 167.38,
+                    "currency": "MXN",
+                    "raw": "$167.38",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 224.99,
+                    "currency": "MXN",
+                    "raw": "$224.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 167.38,
+                "currency": "MXN",
+                "raw": "$167.38",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 3,
+            "title": "Cuaderno profesional con espiral de pasta super rigida, incluye pagina de stickers y bolsa portadocumentos.",
+            "asin": "B07VCV5FWV",
+            "link": "https://www.amazon.com.mx/Cuaderno-profesional-espiral-incluye-stickers/dp/B07VCV5FWV/ref=sr_1_3?dchild=1&keywords=libreta&qid=1635022267&sr=8-3",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51rn1DlG9YL._AC_UL320_.jpg",
+            "amazons_choice": {
+                "link": "https://www.amazon.com.mx/Cuaderno-profesional-espiral-incluye-stickers/dp/B07VCV5FWV/ref=ice_ac_b_dpb?dchild=1&keywords=libreta&qid=1635022267&sr=8-3",
+                "keywords": "para \"libreta\""
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 295,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 69.26,
+                    "currency": "MXN",
+                    "raw": "$69.26"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 69.26,
+                "currency": "MXN",
+                "raw": "$69.26"
+            }
+        },
+        {
+            "position": 4,
+            "title": "AmazonBasics Wide Ruled Wirebound Notebook, 70-Sheet, Assorted Solid Colors, 5-Pack",
+            "asin": "B07D2PXJ3V",
+            "link": "https://www.amazon.com.mx/AmazonBasics-Wirebound-Notebook-70-Sheet-Assorted/dp/B07D2PXJ3V/ref=sxin_13_trfob_0_B07D2PXJ3V?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07D2PXJ3V&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-1-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71RTzwXLrZL._AC_UL320_.jpg",
+            "rating": 4.7,
+            "ratings_total": 2779,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 245.95,
+                    "currency": "MXN",
+                    "raw": "$245.95"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 245.95,
+                "currency": "MXN",
+                "raw": "$245.95"
+            }
+        },
+        {
+            "position": 5,
+            "title": "AmazonBasics Libreta de renglones angostos y espiral, 3 materias, 150 hojas, 26.67 cm x 20.32 cm, separadores con bolsillos (negro, rojo, blanco), 3 unidades",
+            "asin": "B07HRB34RX",
+            "link": "https://www.amazon.com.mx/AmazonBasics-renglones-angostos-separadores-bolsillos/dp/B07HRB34RX/ref=sxin_13_trfob_1_B07HRB34RX?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07HRB34RX&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-2-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61+ab0I+2bL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 190,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 520.03,
+                    "currency": "MXN",
+                    "raw": "$520.03"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 520.03,
+                "currency": "MXN",
+                "raw": "$520.03"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Amazon Basics - Cuaderno a rayas con espiral de alambre, 100 hojas, colores surtidos, patrón de celosía, paquete de 5",
+            "asin": "B07D2PQH6G",
+            "link": "https://www.amazon.com.mx/AmazonBasics-Wirebound-Notebook-100-Sheet-Assorted/dp/B07D2PQH6G/ref=sxin_13_trfob_2_B07D2PQH6G?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07D2PQH6G&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-3-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81xPsa1tdTL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 1436,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 306.03,
+                    "currency": "MXN",
+                    "raw": "$306.03"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 306.03,
+                "currency": "MXN",
+                "raw": "$306.03"
+            }
+        },
+        {
+            "position": 7,
+            "title": "AmazonBasics Cuaderno de escritura, renglón de 1.3 cm y espacio en Blanco, 100 hojas , 15 unidades 24.77 cm x 19.05 cm",
+            "asin": "B07HR8GCMC",
+            "link": "https://www.amazon.com.mx/AmazonBasics-Cuaderno-escritura-rengl%C3%B3n-unidades/dp/B07HR8GCMC/ref=sxin_13_trfob_3_B07HR8GCMC?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07HR8GCMC&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-4-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61xclwLoujL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 177,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 476.56,
+                    "currency": "MXN",
+                    "raw": "$476.56",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 688.53,
+                    "currency": "MXN",
+                    "raw": "$688.53",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 476.56,
+                "currency": "MXN",
+                "raw": "$476.56",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 8,
+            "title": "AmazonBasics College Ruled Loose Leaf Filler Paper, 100-Sheet, 11\" x 8.5\", 6-Pack",
+            "asin": "B07D2RNDH2",
+            "link": "https://www.amazon.com.mx/AmazonBasics-College-Filler-100-Sheet-6-Pack/dp/B07D2RNDH2/ref=sxin_13_trfob_4_B07D2RNDH2?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07D2RNDH2&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-5-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61pgW2Sov9L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 836,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 321.88,
+                    "currency": "MXN",
+                    "raw": "$321.88"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 321.88,
+                "currency": "MXN",
+                "raw": "$321.88"
+            }
+        },
+        {
+            "position": 9,
+            "title": "AmazonBasics Libreta de renglones angostos y espiral, 3 materias, 150 hojas, 26.67 cm x 20.32 cm, separadores con bolsillos, 6 unidades",
+            "asin": "B07HRDHWN7",
+            "link": "https://www.amazon.com.mx/AmazonBasics-renglones-angostos-separadores-bolsillos/dp/B07HRDHWN7/ref=sxin_13_trfob_5_B07HRDHWN7?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07HRDHWN7&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-6-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/613XfPxzNEL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 74,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 839,
+                    "currency": "MXN",
+                    "raw": "$839.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 839,
+                "currency": "MXN",
+                "raw": "$839.00"
+            }
+        },
+        {
+            "position": 10,
+            "title": "AmazonBasics Cuaderno de escritura, renglón de 1.3 cm y espacio en blanco, 100 hojas, 24.77 cm x 19.05 cm, 3 unidades",
+            "asin": "B07HR2RF9L",
+            "link": "https://www.amazon.com.mx/AmazonBasics-Cuaderno-escritura-rengl%C3%B3n-unidades/dp/B07HR2RF9L/ref=sxin_13_trfob_6_B07HR2RF9L?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07HR2RF9L&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-7-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61xclwLoujL._AC_UL320_.jpg",
+            "rating": 4.8,
+            "ratings_total": 804,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 225.97,
+                    "currency": "MXN",
+                    "raw": "$225.97"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 225.97,
+                "currency": "MXN",
+                "raw": "$225.97"
+            }
+        },
+        {
+            "position": 11,
+            "title": "AmazonBasics Libreta de renglones angostos y espiral, 3 materias, 150 hojas, 26.67 cm x 20.32 cm, separadores (negro, rojo, blanco), 3 unidades",
+            "asin": "B07HR9PVFT",
+            "link": "https://www.amazon.com.mx/AmazonBasics-renglones-angostos-materias-separadores/dp/B07HR9PVFT/ref=sxin_13_trfob_7_B07HR9PVFT?cv_ct_cx=libreta&dchild=1&keywords=libreta&pd_rd_i=B07HR9PVFT&pd_rd_r=573dec8d-2dc3-46d0-905a-6e552246d085&pd_rd_w=YWTXj&pd_rd_wg=Sgfmg&pf_rd_p=11fdfa30-bef6-46de-a7de-537cfa0da77d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&qid=1635022267&sr=1-8-88885c67-3e9a-4f61-b390-265a2c73318e",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61Tiru3-i3L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 221,
+            "is_carousel": true,
+            "carousel": {
+                "title": "Los más buscados de nuestras marcas",
+                "sub_title": "Marcas de Amazon y selección exclusiva",
+                "id": "loom-desktop-inline-slot_na-slds-pb-trfob-fa",
+                "total_items": 8
+            },
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 597.01,
+                    "currency": "MXN",
+                    "raw": "$597.01"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 597.01,
+                "currency": "MXN",
+                "raw": "$597.01"
+            }
+        },
+        {
+            "position": 12,
+            "title": "GloblaUP Libreta de Notas con Pasta Dura. Libreta A5 de Piel Sintetica con 90 Hojas de Raya, Cordon Separador y Banda Elastica. Bullet Journal con 180 paginas ideal para Escuela, Hogar u Oficina. (Negro)",
+            "asin": "B088GND44H",
+            "link": "https://www.amazon.com.mx/GloblaUP-Sintetica-Separador-Elastica-Cuaderno/dp/B088GND44H/ref=sr_1_4?dchild=1&keywords=libreta&qid=1635022267&sr=8-4",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41QONgd7A7L._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Descuento extra de 8 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 326,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 199.99,
+                    "currency": "MXN",
+                    "raw": "$199.99",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 259.99,
+                    "currency": "MXN",
+                    "raw": "$259.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 199.99,
+                "currency": "MXN",
+                "raw": "$199.99",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 13,
+            "title": "Libreta Mnemosyne cuaderno japonés tamaño A5 80 hojas rayadas papel ultrasuave. Color Negro",
+            "asin": "B08C67FM1T",
+            "link": "https://www.amazon.com.mx/Libreta-Mnemosyne-cuaderno-japon%C3%A9s-ultrasuave/dp/B08C67FM1T/ref=sr_1_5?dchild=1&keywords=libreta&qid=1635022267&sr=8-5",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51ea-b4hKiL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 84,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 219,
+                    "currency": "MXN",
+                    "raw": "$219.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 219,
+                "currency": "MXN",
+                "raw": "$219.00"
+            }
+        },
+        {
+            "position": 14,
+            "title": "LABUK 4 cuadernos en blanco, 14.2 x 21 cm, cuaderno de páginas en blanco, cuaderno de bocetos de tapa dura, sin forro, papel grueso de 100 g/m², 120 hojas/240 páginas por libro",
+            "asin": "B08FBR6ZT8",
+            "link": "https://www.amazon.com.mx/cuadernos-p%C3%A1ginas-blanco-dibujar-escribir/dp/B08FBR6ZT8/ref=sr_1_6?dchild=1&keywords=libreta&qid=1635022267&sr=8-6",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71JP+XF05HL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 373,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 480.58,
+                    "currency": "MXN",
+                    "raw": "$480.58"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 480.58,
+                "currency": "MXN",
+                "raw": "$480.58"
+            }
+        },
+        {
+            "position": 15,
+            "title": "Canson® Art Book One - Libreta de Dibujo de Pasta Dura - 10.2 x 15.2cm, Color Negro",
+            "asin": "B00MB1W8VU",
+            "link": "https://www.amazon.com.mx/Canson-alambre-Bound-Libro-arte/dp/B00MB1W8VU/ref=sr_1_7?dchild=1&keywords=libreta&qid=1635022267&sr=8-7",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/710SDzlzQSL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 1013,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 149,
+                    "currency": "MXN",
+                    "raw": "$149.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 149,
+                "currency": "MXN",
+                "raw": "$149.00"
+            }
+        },
+        {
+            "position": 16,
+            "title": "Libreta Skin Dots. Cuaderno clásico de puntos con pasta dura. 80 hojas punteadas. MARCA REGISTRADA G4. Color Negro",
+            "asin": "B08X7KT1BF",
+            "link": "https://www.amazon.com.mx/Libreta-Cuaderno-cl%C3%A1sico-punteadas-REGISTRADA/dp/B08X7KT1BF/ref=sr_1_8?dchild=1&keywords=libreta&qid=1635022267&sr=8-8",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51+cidhI72L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 76,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 209,
+                    "currency": "MXN",
+                    "raw": "$209.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 209,
+                "currency": "MXN",
+                "raw": "$209.00"
+            }
+        },
+        {
+            "position": 17,
+            "title": "mundoHogar Libreta Pasta Dura Estilo Vintage, Diario con Cubierta Tipo Piel, Árbol de la Vida, Retro, Cuaderno Estilo Clásico Hoja Rayada | (Cafe)",
+            "asin": "B0959YC3PG",
+            "link": "https://www.amazon.com.mx/mundoHogar-Libreta-Vintage-Cubierta-Cuaderno/dp/B0959YC3PG/ref=sr_1_9?dchild=1&keywords=libreta&qid=1635022267&sr=8-9",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/91--UmrG9YS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 22,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 289,
+                    "currency": "MXN",
+                    "raw": "$289.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 289,
+                "currency": "MXN",
+                "raw": "$289.00"
+            }
+        },
+        {
+            "position": 18,
+            "title": "VACNITE Cuaderno Inteligente Libreta Reutilizable Smart Notebook de 100 Páginas Libreta de Notas Borrable Pasta Dura Hoja Punteada y Rayada Incluye 3 Plumas ，Multicolor Notas Adhesivas，y 8 Recargas de Plumas， Tamaño A5 (215mm * 145mm)",
+            "asin": "B082VVNC2D",
+            "link": "https://www.amazon.com.mx/VACNITE-Cuaderno-Inteligente-Reutilizable-Notebook/dp/B082VVNC2D/ref=sr_1_10?dchild=1&keywords=libreta&qid=1635022267&sr=8-10",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/414KFHcsEjS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 289,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 499,
+                    "currency": "MXN",
+                    "raw": "$499.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 499,
+                "currency": "MXN",
+                "raw": "$499.00"
+            }
+        },
+        {
+            "position": 19,
+            "title": "Tilibra 292371 Cuaderno esquela LE VANILLE, tapa dura, raya, 80 hojas, Modelos/colores variados",
+            "asin": "B07T99YPDY",
+            "link": "https://www.amazon.com.mx/Tilibra-292371-Cuaderno-esquela-VANILLE/dp/B07T99YPDY/ref=sr_1_11?dchild=1&keywords=libreta&qid=1635022267&sr=8-11",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71NO+DgF6WL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 133,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 46.13,
+                    "currency": "MXN",
+                    "raw": "$46.13"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 46.13,
+                "currency": "MXN",
+                "raw": "$46.13"
+            }
+        },
+        {
+            "position": 20,
+            "title": "AmazonBasics Wide Ruled Composition Notebook, 100-Sheet, Marble Black, 4-Pack",
+            "asin": "B07D2R3JRD",
+            "link": "https://www.amazon.com.mx/AmazonBasics-Composition-Notebook-100-Sheet-Marble/dp/B07D2R3JRD/ref=sr_1_12?dchild=1&keywords=libreta&qid=1635022267&sr=8-12",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81U1LtJwUOL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 2967,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 248.58,
+                    "currency": "MXN",
+                    "raw": "$248.58"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 248.58,
+                "currency": "MXN",
+                "raw": "$248.58"
+            }
+        },
+        {
+            "position": 21,
+            "title": "Libreta Headline GIRL POWER | Cuaderno clásico pasta dura de cartón negro mate 120 hojas rayadas con micro perforación.",
+            "asin": "B08WT8HXSB",
+            "link": "https://www.amazon.com.mx/Libreta-Headline-Cuaderno-cl%C3%A1sico-perforaci%C3%B3n/dp/B08WT8HXSB/ref=sr_1_13?dchild=1&keywords=libreta&qid=1635022267&sr=8-13",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/411BJb8LoOL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 2,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 249,
+                    "currency": "MXN",
+                    "raw": "$249.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 249,
+                "currency": "MXN",
+                "raw": "$249.00"
+            }
+        },
+        {
+            "position": 22,
+            "title": "Oxford Stone Cuaderno de papel",
+            "asin": "B07C32J5TM",
+            "link": "https://www.amazon.com.mx/Oxford-Stone-Cuaderno-papel-Azul/dp/B07C32J5TM/ref=sr_1_14?dchild=1&keywords=libreta&qid=1635022267&sr=8-14",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71DhxYXHIIL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 2591,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 249.02,
+                    "currency": "MXN",
+                    "raw": "$249.02"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 249.02,
+                "currency": "MXN",
+                "raw": "$249.02"
+            }
+        },
+        {
+            "position": 23,
+            "title": "Cuaderno esquela pasta dura, 80 hojas raya MAGIC",
+            "asin": "B07NVWQ2N3",
+            "link": "https://www.amazon.com.mx/Cuaderno-esquela-espiral-rigida-stickers/dp/B07NVWQ2N3/ref=sr_1_15?dchild=1&keywords=libreta&qid=1635022267&sr=8-15",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716BsaD6IKL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.2,
+            "ratings_total": 183,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 46.13,
+                    "currency": "MXN",
+                    "raw": "$46.13"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 46.13,
+                "currency": "MXN",
+                "raw": "$46.13"
+            }
+        },
+        {
+            "position": 24,
+            "title": "Libreta Skin de bolsillo. Cuaderno clásico pasta dura 160 páginas. Color negro",
+            "asin": "B09234RLFP",
+            "link": "https://www.amazon.com.mx/Libreta-bolsillo-Cuaderno-cl%C3%A1sico-p%C3%A1ginas/dp/B09234RLFP/ref=sr_1_16?dchild=1&keywords=libreta&qid=1635022267&sr=8-16",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51dkZK8eWzS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 16,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 179,
+                    "currency": "MXN",
+                    "raw": "$179.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 179,
+                "currency": "MXN",
+                "raw": "$179.00"
+            }
+        },
+        {
+            "position": 25,
+            "title": "AmazonBasics Wide Ruled Composition Notebook, 100-Sheet, Marble Black, 4-Pack",
+            "asin": "B07D2R3JRD",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0992606J4Q8GQJTF8UI&url=%2FAmazonBasics-Composition-Notebook-100-Sheet-Marble%2Fdp%2FB07D2R3JRD%2Fref%3Dsr_1_17_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-17-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_mtf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81U1LtJwUOL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 2967,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 248.58,
+                    "currency": "MXN",
+                    "raw": "$248.58"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 248.58,
+                "currency": "MXN",
+                "raw": "$248.58"
+            }
+        },
+        {
+            "position": 26,
+            "title": "Kraft Notebook - Libros en blanco sin forro, diarios de viaje lisos sin rayas para estudiantes, escuela, libros de escritura para niños, proyectos de clase, café, 24 hojas cada uno",
+            "asin": "B07D8MQ71H",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A022162222JMFTX7XD7XZ&url=%2FKraft-Notebook-estudiantes-escritura-proyectos%2Fdp%2FB07D8MQ71H%2Fref%3Dsr_1_18_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-18-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_mtf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71rKkXDwmaL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 1165,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 444.34,
+                    "currency": "MXN",
+                    "raw": "$444.34"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 444.34,
+                "currency": "MXN",
+                "raw": "$444.34"
+            }
+        },
+        {
+            "position": 27,
+            "title": "2x1, Dos Libretas Artísticas tipo moleskine Casas y Calle",
+            "asin": "B08B3BKRTX",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A01480993UHHDP7NI275&url=%2FLibretas-Art%25C3%25ADsticas-moleskine-Casas-Calle%2Fdp%2FB08B3BKRTX%2Fref%3Dsr_1_19_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-19-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_mtf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81QhIuDZkRL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 6,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 290,
+                    "currency": "MXN",
+                    "raw": "$290.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 290,
+                "currency": "MXN",
+                "raw": "$290.00"
+            }
+        },
+        {
+            "position": 28,
+            "title": "Libreta Cuaderno de Piel con Arillo Metálico y Hojas Sepia, Diario Personal para Escribir o Dibujar, Náutico Mediano (18x3x13cm) Verde",
+            "asin": "B099DBR3X8",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A04515106Z84R9I020N1&url=%2FCuaderno-Met%25C3%25A1lico-Personal-Escribir-18x3x13cm%2Fdp%2FB099DBR3X8%2Fref%3Dsr_1_20_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-20-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_mtf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81zOr4daltS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 6,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 239.45,
+                    "currency": "MXN",
+                    "raw": "$239.45"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 239.45,
+                "currency": "MXN",
+                "raw": "$239.45"
+            }
+        },
+        {
+            "position": 29,
+            "title": "Five Star cuaderno de espiral, 5 materias, con renglones, 200 hojas de papel, 27.9 cm x 21.59 cm, Negro, 1 paquete",
+            "asin": "B003O2RXUQ",
+            "link": "https://www.amazon.com.mx/Five-Star-materias-renglones-200-hojas/dp/B003O2RXUQ/ref=sr_1_21?dchild=1&keywords=libreta&qid=1635022267&sr=8-21",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81joOBlpOOL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 9145,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 195.07,
+                    "currency": "MXN",
+                    "raw": "$195.07"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 195.07,
+                "currency": "MXN",
+                "raw": "$195.07"
+            }
+        },
+        {
+            "position": 30,
+            "title": "mundoGadget Diario de Viaje Vintage 15x10cm, Libreta de Bolsillo con Cubierta de Tipo Piel, Hoja Decorativa, Retro, Cuaderno Estilo Clásico (Negro)",
+            "asin": "B08433CRM6",
+            "link": "https://www.amazon.com.mx/mundoGadget-Bolsillo-Cubierta-Decorativa-Cuaderno/dp/B08433CRM6/ref=sr_1_22?dchild=1&keywords=libreta&qid=1635022267&sr=8-22",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/512ofqCTfSL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 136,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 179,
+                    "currency": "MXN",
+                    "raw": "$179.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 179,
+                "currency": "MXN",
+                "raw": "$179.00"
+            }
+        },
+        {
+            "position": 31,
+            "title": "Ofidosel Libreta Clásica con Cubierta y Pasta Dura de Cuero Sintético/Piel Vegana con Banda Elástica y Porta Documentos. Excelente para Universidad, Oficina y Hogar. 14.2 X 21.2 X 1.6 cms (Negro)",
+            "asin": "B07L445BHJ",
+            "link": "https://www.amazon.com.mx/Ofidosel-El%C3%A1stica-Documentos-Disponible-Universidad/dp/B07L445BHJ/ref=sr_1_23?dchild=1&keywords=libreta&qid=1635022267&sr=8-23",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/714qaVzfAWL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 530,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 199.99,
+                    "currency": "MXN",
+                    "raw": "$199.99",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 317.99,
+                    "currency": "MXN",
+                    "raw": "$317.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 199.99,
+                "currency": "MXN",
+                "raw": "$199.99",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 32,
+            "title": "Exclusivo diario de escritura para mujeres y hombres – hecho a mano en Italia con papel marfil – Diario de viaje vintage para notas diarias, sueños o planificación, perfecto para un viajero, escritor (BAROQUE)",
+            "asin": "B07Q4BLJX4",
+            "link": "https://www.amazon.com.mx/Cuaderno-personal-pulgadas-cubierta-perfecto/dp/B07Q4BLJX4/ref=sr_1_24?dchild=1&keywords=libreta&qid=1635022267&sr=8-24",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71HTQZFn9DS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 339,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 545,
+                    "currency": "MXN",
+                    "raw": "$545.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 545,
+                "currency": "MXN",
+                "raw": "$545.00"
+            }
+        },
+        {
+            "position": 33,
+            "title": "LABUK Cuaderno en blanco de 7 piezas, cuaderno en espiral sin forro, 8.1 x 5.5 pulgadas, cuaderno de bocetos con papel en blanco, tapa suave, 100 páginas, 50 hojas, para suministros de oficina escolar",
+            "asin": "B08FYCM7ZR",
+            "link": "https://www.amazon.com.mx/Libreta-cuadernos-peque%C3%B1os-escuelas-oficinas/dp/B08FYCM7ZR/ref=sr_1_25?dchild=1&keywords=libreta&qid=1635022267&sr=8-25",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/710-KuOjGaS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 159,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 353.8,
+                    "currency": "MXN",
+                    "raw": "$353.80"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 353.8,
+                "currency": "MXN",
+                "raw": "$353.80"
+            }
+        },
+        {
+            "position": 34,
+            "title": "Libreta Skin | Cuaderno clásico pasta dura 80 hojas papel óptico silky. Color azul obscuro",
+            "asin": "B07PPQZHGP",
+            "link": "https://www.amazon.com.mx/Libreta-Cuaderno-cl%C3%A1sico-%C3%B3ptico-obscuro/dp/B07PPQZHGP/ref=sr_1_26?dchild=1&keywords=libreta&qid=1635022267&sr=8-26",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51iMlFAYnvL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 193,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 209,
+                    "currency": "MXN",
+                    "raw": "$209.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 209,
+                "currency": "MXN",
+                "raw": "$209.00"
+            }
+        },
+        {
+            "position": 35,
+            "title": "Esstentials Large Black Dot Matrix Notebook",
+            "asin": "1441323716",
+            "link": "https://www.amazon.com.mx/Essentials-Large-Black-Matrix-Notebook/dp/1441323716/ref=sr_1_27?dchild=1&keywords=libreta&qid=1635022267&sr=8-27",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81CypWoz5VL._AC_UL320_.jpg",
+            "authors": [
+                {
+                    "name": "Inc Peter Pauper Press"
+                }
+            ],
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 4016,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 293.43,
+                    "currency": "MXN",
+                    "raw": "$293.43"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 293.43,
+                "currency": "MXN",
+                "raw": "$293.43"
+            }
+        },
+        {
+            "position": 36,
+            "title": "Rocketbook - Cuaderno de espiral reutilizable borrable, Azul claro, Ejecutivo",
+            "asin": "B07CZ37LP3",
+            "link": "https://www.amazon.com.mx/Rocketbook-Everlast-Reusable-Notebook-Executive/dp/B07CZ37LP3/ref=sr_1_28?dchild=1&keywords=libreta&qid=1635022267&sr=8-28",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/718I5vchLoL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 20366,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 665.01,
+                    "currency": "MXN",
+                    "raw": "$665.01",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 810.99,
+                    "currency": "MXN",
+                    "raw": "$810.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 665.01,
+                "currency": "MXN",
+                "raw": "$665.01",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 37,
+            "title": "Unda Mexico. Libreta, Cuaderno de Notas con 96 Hojas rayadas y Pasta Dura. Ecológica",
+            "asin": "B08BWQZCDG",
+            "link": "https://www.amazon.com.mx/Libreta-cuaderno-cl%C3%A1sico-notas-rayadas/dp/B08BWQZCDG/ref=sr_1_29?dchild=1&keywords=libreta&qid=1635022267&sr=8-29",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/611fxlV-fHL._AC_UL320_.jpg",
+            "rating": 4.3,
+            "ratings_total": 30,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 175,
+                    "currency": "MXN",
+                    "raw": "$175.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 175,
+                "currency": "MXN",
+                "raw": "$175.00"
+            }
+        },
+        {
+            "position": 38,
+            "title": "Our Adventure Book Libreta Vintage 40 Hojas,Vintage Cuaderno Clásico ,150GSM Premium Grueso Papel Para Regalo, Oficina, Escuela, Hogar,",
+            "asin": "B094DM1QZV",
+            "link": "https://www.amazon.com.mx/Adventure-Libreta-Vintage-Cuaderno-Cl%C3%A1sico/dp/B094DM1QZV/ref=sr_1_30?dchild=1&keywords=libreta&qid=1635022267&sr=8-30",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81Y0E4mx+KS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 16,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 479,
+                    "currency": "MXN",
+                    "raw": "$479.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 479,
+                "currency": "MXN",
+                "raw": "$479.00"
+            }
+        },
+        {
+            "position": 39,
+            "title": "mundoGadget Diario de Viaje Vintage, Libreta de Bolsillo con Cubierta de Piel, Náutica, retro, Cuaderno Estilo Clásico … (Café)",
+            "asin": "B07HDL6CY7",
+            "link": "https://www.amazon.com.mx/mundoGadget-Vintage-Bolsillo-Cubierta-Cuaderno/dp/B07HDL6CY7/ref=sr_1_31?dchild=1&keywords=libreta&qid=1635022267&sr=8-31",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71w5do6FpVL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 203,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 199,
+                    "currency": "MXN",
+                    "raw": "$199.00",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 250,
+                    "currency": "MXN",
+                    "raw": "$250.00",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 199,
+                "currency": "MXN",
+                "raw": "$199.00",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 40,
+            "title": "Tilibra 235580.0 Cuaderno esquela tapa dura WEST VILLAGE 160 hojas raya,",
+            "asin": "B07D4RXXZW",
+            "link": "https://www.amazon.com.mx/Tilibra-235580-0-Cuaderno-esquela-VILLAGE/dp/B07D4RXXZW/ref=sr_1_32?dchild=1&keywords=libreta&qid=1635022267&sr=8-32",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51stA6xCAEL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 51,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 113.33,
+                    "currency": "MXN",
+                    "raw": "$113.33"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 113.33,
+                "currency": "MXN",
+                "raw": "$113.33"
+            }
+        },
+        {
+            "position": 41,
+            "title": "Huamxe Cuaderno de diario forrado, tapa dura, tamaño mediano de 5.7 x 8.4 pulgadas, papel grueso de 160 páginas, lindo cuaderno con reglas universitarias A5 con flores estéticas para escribir en diario, trabajo de oficina, escuela, flor verde",
+            "asin": "B092JBP1W3",
+            "link": "https://www.amazon.com.mx/Huamxe-Cuaderno-pulgadas-universitarias-est%C3%A9ticas/dp/B092JBP1W3/ref=sr_1_33?dchild=1&keywords=libreta&qid=1635022267&sr=8-33",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81od78lp-ES._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 3.9,
+            "ratings_total": 11,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 299.04,
+                    "currency": "MXN",
+                    "raw": "$299.04"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 299.04,
+                "currency": "MXN",
+                "raw": "$299.04"
+            }
+        },
+        {
+            "position": 42,
+            "title": "Cuaderno colegial pasta dura, 17x24, 80 hojas punteadas, portada aleatoria",
+            "asin": "B07WCCTYDR",
+            "link": "https://www.amazon.com.mx/Cuaderno-colegial-espiral-pasta-rigida/dp/B07WCCTYDR/ref=sr_1_34?dchild=1&keywords=libreta&qid=1635022267&sr=8-34",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81rxjd9o3UL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 68,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 131.46,
+                    "currency": "MXN",
+                    "raw": "$131.46"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 131.46,
+                "currency": "MXN",
+                "raw": "$131.46"
+            }
+        },
+        {
+            "position": 43,
+            "title": "mundoHogar Diario de Viaje Vintage, Libreta de Bolsillo con Cubierta de Tipo Piel, Hoja Decorativa, Retro, Cuaderno Estilo Clásico - Mediana (18.5x12.5 cm), Cafe",
+            "asin": "B095BNTQ9D",
+            "link": "https://www.amazon.com.mx/mundoHogar-Bolsillo-Cubierta-Decorativa-Cuaderno/dp/B095BNTQ9D/ref=sr_1_35?dchild=1&keywords=libreta&qid=1635022267&sr=8-35",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71aFBBAJ1bS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 31,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 189,
+                    "currency": "MXN",
+                    "raw": "$189.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 189,
+                "currency": "MXN",
+                "raw": "$189.00"
+            }
+        },
+        {
+            "position": 44,
+            "title": "BY MEXICO, Libreta Rayada modelo Ajolote Iztli Negro",
+            "asin": "B08V21T5HG",
+            "link": "https://www.amazon.com.mx/MEXICO-Libreta-Rayada-modelo-Ajolote/dp/B08V21T5HG/ref=sr_1_36?dchild=1&keywords=libreta&qid=1635022267&sr=8-36",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71onDkS27LL._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 20 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 13,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 299,
+                    "currency": "MXN",
+                    "raw": "$299.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 299,
+                "currency": "MXN",
+                "raw": "$299.00"
+            }
+        },
+        {
+            "position": 45,
+            "title": "Premium Sketchbook Small",
+            "asin": "1441310215",
+            "link": "https://www.amazon.com.mx/Small-Premium-Sketchbook-Peter-Pauper/dp/1441310215/ref=sr_1_37?dchild=1&keywords=libreta&qid=1635022267&sr=8-37",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81UWLiihyJS._AC_UL320_.jpg",
+            "authors": [
+                {
+                    "name": "Inc Peter Pauper Press"
+                }
+            ],
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 1529,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 187.14,
+                    "currency": "MXN",
+                    "raw": "$187.14"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 187.14,
+                "currency": "MXN",
+                "raw": "$187.14"
+            }
+        },
+        {
+            "position": 46,
+            "title": "TAKUMI Cuaderno Inteligente Reutilizable, Libreta Inteligente Tamaño A5 Agenda, Smart Notebook de 100 páginas (50 hojas), 4 lapiceros, Pasta Negra, 50 páginas a Rayas y 50 páginas a Puntos.",
+            "asin": "B08P44WHZ9",
+            "link": "https://www.amazon.com.mx/Cuaderno-Inteligente-Reutilizable-Notebook-lapiceros/dp/B08P44WHZ9/ref=sr_1_38?dchild=1&keywords=libreta&qid=1635022267&sr=8-38",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81KgYejB8-L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 54,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 599,
+                    "currency": "MXN",
+                    "raw": "$599.00",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 699,
+                    "currency": "MXN",
+                    "raw": "$699.00",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 599,
+                "currency": "MXN",
+                "raw": "$599.00",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 47,
+            "title": "Moleskine Libreta Clásica Grande Negra de Hoja Rayada y Pasta Dura",
+            "asin": "8883701127",
+            "link": "https://www.amazon.com.mx/Moleskine-Classic-Notebook-Large-Ruled/dp/8883701127/ref=sr_1_39?dchild=1&keywords=libreta&qid=1635022267&sr=8-39",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71RtP8flv6L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 8551,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 298.42,
+                    "currency": "MXN",
+                    "raw": "$298.42"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 298.42,
+                "currency": "MXN",
+                "raw": "$298.42"
+            }
+        },
+        {
+            "position": 48,
+            "title": "Cuaderno profesional pasta dura, 80 hojas raya MAGIC",
+            "asin": "B07K7N2QM7",
+            "link": "https://www.amazon.com.mx/Cuaderno-profesional-espiral-incluye-stickers/dp/B07K7N2QM7/ref=sr_1_40?dchild=1&keywords=libreta&qid=1635022267&sr=8-40",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/710P7PpxYnL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 115,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 69.26,
+                    "currency": "MXN",
+                    "raw": "$69.26"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 69.26,
+                "currency": "MXN",
+                "raw": "$69.26"
+            }
+        },
+        {
+            "position": 49,
+            "title": "Danpex Libreta de Notas Snoopy, 140 Páginas, 14 x 20.5 cm, Hojas blancas Punteadas y Decoradas, Cuaderno clásico con Cierre de elástico y Espiral Doble Metálico, Rojo",
+            "asin": "B09B8NW3L9",
+            "link": "https://www.amazon.com.mx/Punteadas-Decoradas-Cuaderno-el%C3%A1stico-Met%C3%A1lico/dp/B09B8NW3L9/ref=sr_1_41?dchild=1&keywords=libreta&qid=1635022267&sr=8-41",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/610DkuNyMjL._AC_UL320_.jpg",
+            "is_prime": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 109,
+                    "currency": "MXN",
+                    "raw": "$109.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 109,
+                "currency": "MXN",
+                "raw": "$109.00"
+            }
+        },
+        {
+            "position": 50,
+            "title": "Tilibra 295604 Cuaderno esquela HELLO, tapa dura, raya, 80 hojas,",
+            "asin": "B07PQXSV4M",
+            "link": "https://www.amazon.com.mx/Tilibra-295604-Cuaderno-esquela-HELLO/dp/B07PQXSV4M/ref=sr_1_42?dchild=1&keywords=libreta&qid=1635022267&sr=8-42",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61vZauCydqL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 62,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 46.13,
+                    "currency": "MXN",
+                    "raw": "$46.13"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 46.13,
+                "currency": "MXN",
+                "raw": "$46.13"
+            }
+        },
+        {
+            "position": 51,
+            "title": "Mead Square - Notebook, 100 hojas, Wide Ruled, Black, 12 Pack",
+            "asin": "B0028N6PSS",
+            "link": "https://www.amazon.com.mx/Mead-Square-Notebook-100-hojas-Ruled/dp/B0028N6PSS/ref=sr_1_43?dchild=1&keywords=libreta&qid=1635022267&sr=8-43",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81wcWtypWPS._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 13126,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 482.76,
+                    "currency": "MXN",
+                    "raw": "$482.76",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 528,
+                    "currency": "MXN",
+                    "raw": "$528.00",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 482.76,
+                "currency": "MXN",
+                "raw": "$482.76",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 52,
+            "title": "Pantone: 10 cuadernos",
+            "asin": "145214978X",
+            "link": "https://www.amazon.com.mx/Pantone-10-Notebooks-Inc/dp/145214978X/ref=sr_1_44?dchild=1&keywords=libreta&qid=1635022267&sr=8-44",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71vEwD59HML._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.com.mx/gp/goldbox/",
+                "badge_text": "Promoción"
+            },
+            "is_prime": true,
+            "rating": 4.2,
+            "ratings_total": 115,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 329.84,
+                    "currency": "MXN",
+                    "raw": "$329.84",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 430.67,
+                    "currency": "MXN",
+                    "raw": "$430.67",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 329.84,
+                "currency": "MXN",
+                "raw": "$329.84",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 53,
+            "title": "BY MEXICO, Libreta Rayada modelo Xoloescuincle negro",
+            "asin": "B07NDL5PR6",
+            "link": "https://www.amazon.com.mx/By-Mexico-libreta-Xoloescuincle-negro/dp/B07NDL5PR6/ref=sr_1_45?dchild=1&keywords=libreta&qid=1635022267&sr=8-45",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61Pz3VkoABL._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 20 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 147,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 299,
+                    "currency": "MXN",
+                    "raw": "$299.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 299,
+                "currency": "MXN",
+                "raw": "$299.00"
+            }
+        },
+        {
+            "position": 54,
+            "title": "Pukka Pad - Libreta de 5 materias, 3 unidades, 7 x 10 pulgadas 100 Premium 80 GSM, Rochelle & Jess",
+            "asin": "B08R7V62GV",
+            "link": "https://www.amazon.com.mx/Pukka-Pad-materias-unidades-pulgadas/dp/B08R7V62GV/ref=sr_1_46?dchild=1&keywords=libreta&qid=1635022267&sr=8-46",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81mSEgm3hML._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 501,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 570.11,
+                    "currency": "MXN",
+                    "raw": "$570.11"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 570.11,
+                "currency": "MXN",
+                "raw": "$570.11"
+            }
+        },
+        {
+            "position": 55,
+            "title": "Moleskine Classic Hard Cover Notebook, Dotted, Pocket Size (3.5\" x 5.5\") Reef Blue - Hard Cover Notebook for Writing, Sketching, Journals",
+            "asin": "B07FDVGW7V",
+            "link": "https://www.amazon.com.mx/Moleskine-Cuadernos-cl%C3%A1sicos-bolsillo-punteado/dp/B07FDVGW7V/ref=sr_1_47?dchild=1&keywords=libreta&qid=1635022267&sr=8-47",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81Oe3elwfFL._AC_UL320_.jpg",
+            "bestseller": {
+                "link": "https://www.amazon.com.mx/gp/bestsellers/officeproduct/11601210011/ref=sr_bs_46_11601210011_1",
+                "category": "en Blocs y Cuadernos de Notas"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 6538,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 372.81,
+                    "currency": "MXN",
+                    "raw": "$372.81"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 372.81,
+                "currency": "MXN",
+                "raw": "$372.81"
+            }
+        },
+        {
+            "position": 56,
+            "title": "Notas Adhesivas, TYC Notas Adhesiva con 402 piezas Kit Porta Notas Priorizar Notas Adhesivas Divisoras con Diferentes Tamaños y Colores para Oficina, Escuela o Trabajo",
+            "asin": "B086Q3N5JT",
+            "link": "https://www.amazon.com.mx/Adhesivas-TYC-Priorizar-Divisoras-Diferentes/dp/B086Q3N5JT/ref=sr_1_48?dchild=1&keywords=libreta&qid=1635022267&sr=8-48",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71jqF1kxWhL._AC_UL320_.jpg",
+            "bestseller": {
+                "link": "https://www.amazon.com.mx/gp/bestsellers/officeproduct/11601218011/ref=sr_bs_47_11601218011_1",
+                "category": "en Notas Autoadhesivas"
+            },
+            "coupon": {
+                "badge_text": "Descuento extra de $30.00",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 491,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 199,
+                    "currency": "MXN",
+                    "raw": "$199.00",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 359,
+                    "currency": "MXN",
+                    "raw": "$359.00",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 199,
+                "currency": "MXN",
+                "raw": "$199.00",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 57,
+            "title": "Libreta Skin Antes de Morir. Cuaderno clásico pasta dura 80 hojas. Medidas 13 x 21. MARCA REGISTRADA G4. Negro",
+            "asin": "B08ZGJT91Y",
+            "link": "https://www.amazon.com.mx/Libreta-Cuaderno-cl%C3%A1sico-Medidas-REGISTRADA/dp/B08ZGJT91Y/ref=sr_1_49?dchild=1&keywords=libreta&qid=1635022267&sr=8-49",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/31NnnmrsP2L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 1,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 219,
+                    "currency": "MXN",
+                    "raw": "$219.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 219,
+                "currency": "MXN",
+                "raw": "$219.00"
+            }
+        },
+        {
+            "position": 58,
+            "title": "By Mexico, Cuaderno Clasico, Hojas Rayadas, Libreta Tenango 80 hojas",
+            "asin": "B07H7S2LW4",
+            "link": "https://www.amazon.com.mx/Mexico-Libreta-Rayada-Tenango-hojas/dp/B07H7S2LW4/ref=sr_1_50?dchild=1&keywords=libreta&qid=1635022267&sr=8-50",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/718kM6DMn6L._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 20 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 70,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 299,
+                    "currency": "MXN",
+                    "raw": "$299.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 299,
+                "currency": "MXN",
+                "raw": "$299.00"
+            }
+        },
+        {
+            "position": 59,
+            "title": "Rocketbook Wave - Cuaderno Inteligente, Negro, Executive (6\"x8.8\")",
+            "asin": "B06ZXWVZ3X",
+            "link": "https://www.amazon.com.mx/Rocketbook-Wave-Cuaderno-Inteligente-Executive/dp/B06ZXWVZ3X/ref=sr_1_51?dchild=1&keywords=libreta&qid=1635022267&sr=8-51",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/711V73cWWRL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 28440,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 579,
+                    "currency": "MXN",
+                    "raw": "$579.00",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 760.99,
+                    "currency": "MXN",
+                    "raw": "$760.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 579,
+                "currency": "MXN",
+                "raw": "$579.00",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 60,
+            "title": "Libreta Aqua papel piedra | Cuaderno clásico pasta dura de cartón negro brillante 90 hojas de papel piedra rayadas con micro perforación, resistente a roturas y waterproof",
+            "asin": "B08TB3L1PH",
+            "link": "https://www.amazon.com.mx/Cuaderno-brillante-perforaci%C3%B3n-resistente-waterproof/dp/B08TB3L1PH/ref=sr_1_52?dchild=1&keywords=libreta&qid=1635022267&sr=8-52",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51rDAWFn8XL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 1,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 212,
+                    "currency": "MXN",
+                    "raw": "$212.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 212,
+                "currency": "MXN",
+                "raw": "$212.00"
+            }
+        },
+        {
+            "position": 61,
+            "title": "AmazonBasics Wide Ruled Wirebound Notebook, 70-Sheet, Assorted Solid Colors, 5-Pack",
+            "asin": "B07D2PXJ3V",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08516453IQHNW20CQQ4Z&url=%2FAmazonBasics-Wirebound-Notebook-70-Sheet-Assorted%2Fdp%2FB07D2PXJ3V%2Fref%3Dsr_1_53_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-53-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71RTzwXLrZL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 2779,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 245.95,
+                    "currency": "MXN",
+                    "raw": "$245.95"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 245.95,
+                "currency": "MXN",
+                "raw": "$245.95"
+            }
+        },
+        {
+            "position": 62,
+            "title": "Cuaderno de campo, 12,7 x 20,3 cm, colores combinados, cuaderno de notas con gráficos de puntos, paquete de 6",
+            "asin": "B078HRVGGT",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08213731CIJC4H7KYCQ&url=%2FCuaderno-campo-12-20-Combinaci%25C3%25B3n%2Fdp%2FB078HRVGGT%2Fref%3Dsr_1_54_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-54-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71OwJhnuzqL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 608,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 379.59,
+                    "currency": "MXN",
+                    "raw": "$379.59"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 379.59,
+                "currency": "MXN",
+                "raw": "$379.59"
+            }
+        },
+        {
+            "position": 63,
+            "title": "Rasca Mapa de las Zonas Arqueológicas de México",
+            "asin": "B07XNWR6LC",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A04826762JRXM0OBL1NIP&url=%2FRasca-Mapa-Zonas-Arqueol%25C3%25B3gicas-M%25C3%25A9xico%2Fdp%2FB07XNWR6LC%2Fref%3Dsr_1_55_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-55-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/A1H70PtKzCL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 5,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 549,
+                    "currency": "MXN",
+                    "raw": "$549.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 549,
+                "currency": "MXN",
+                "raw": "$549.00"
+            }
+        },
+        {
+            "position": 64,
+            "title": "Planeador Estratégico Trimestral Velski (Negro)",
+            "asin": "B086YFJDPD",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A10196502KN4KYKPS8KFZ&url=%2FPlaneador-Estrat%25C3%25A9gico-Trimestral-Velski-Negro%2Fdp%2FB086YFJDPD%2Fref%3Dsr_1_56_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-56-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81owz+xwfoL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 35,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 625,
+                    "currency": "MXN",
+                    "raw": "$625.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 625,
+                "currency": "MXN",
+                "raw": "$625.00"
+            }
+        },
+        {
+            "position": 65,
+            "title": "GloblaUP Libreta de Notas con Pasta Dura. Libreta A5 de Piel Sintetica con 90 Hojas de Raya, Cordon Separador y Banda Elastica. Bullet Journal con 180 paginas ideal para Escuela, Hogar u Oficina. (Negro)",
+            "asin": "B088GND44H",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A10192243J9WX8FHR8SKE&url=%2FGloblaUP-Sintetica-Separador-Elastica-Cuaderno%2Fdp%2FB088GND44H%2Fref%3Dsr_1_57_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-57-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41QONgd7A7L._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 8 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 326,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 199.99,
+                    "currency": "MXN",
+                    "raw": "$199.99",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 259.99,
+                    "currency": "MXN",
+                    "raw": "$259.99",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 199.99,
+                "currency": "MXN",
+                "raw": "$199.99",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 66,
+            "title": "Agenda anual de año académico 2021-2022 de Hardcover: (de junio de 2021 a julio de 2022) de 14 x 20 cm. Marcapáginas, carpeta de bolsillo y juego de notas adhesivas (acuarelas arcoíris)",
+            "asin": "B08TQDHL6D",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A01502003US5WREDQ5WFH&url=%2FAgenda-anual-acad%25C3%25A9mico-2021-2022-Hardcover%2Fdp%2FB08TQDHL6D%2Fref%3Dsr_1_58_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-58-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81GA8GKNcrL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 81,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 248.36,
+                    "currency": "MXN",
+                    "raw": "$248.36",
+                    "name": "primary"
+                },
+                {
+                    "symbol": "$",
+                    "value": 387.54,
+                    "currency": "MXN",
+                    "raw": "$387.54",
+                    "name": "original"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 248.36,
+                "currency": "MXN",
+                "raw": "$248.36",
+                "name": "primary"
+            }
+        },
+        {
+            "position": 67,
+            "title": "Blank Book - 24-Pack Colorful Notebooks, Unlined Plain Travel Journals for Students, Kids Diaries, Creative Writing Projects, 6 Assorted Colors, 4.25 x 5.5 Inches, 24 Sheets",
+            "asin": "B07D8H8G68",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A02293583H1QIGFWTSDSR&url=%2FLibreta-blanco-Cuadernos-coloridos-estudiantes%2Fdp%2FB07D8H8G68%2Fref%3Dsr_1_59_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-59-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71swe1gaL+L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 745,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 297.69,
+                    "currency": "MXN",
+                    "raw": "$297.69"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 297.69,
+                "currency": "MXN",
+                "raw": "$297.69"
+            }
+        },
+        {
+            "position": 68,
+            "title": "Innovation Line | Libreta doble Kassel. Libreta doble con 96 hojas de raya, con el tamaño perfecto para llave a todas partes. (Gris)",
+            "asin": "B08XY8MP44",
+            "link": "https://www.amazon.com.mx/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A0044637J0UA861A2NYF&url=%2FInnovation-Line-Libreta-Kassel-perfecto%2Fdp%2FB08XY8MP44%2Fref%3Dsr_1_60_sspa%3Fdchild%3D1%26keywords%3Dlibreta%26qid%3D1635022267%26sr%3D8-60-spons%26psc%3D1&qualifier=1635022267&id=4199603134379977&widgetName=sp_btf",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/419ArEhw+CL._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con cupón"
+            },
+            "is_prime": true,
+            "rating": 3.8,
+            "ratings_total": 5,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 250,
+                    "currency": "MXN",
+                    "raw": "$250.00"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 250,
+                "currency": "MXN",
+                "raw": "$250.00"
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "libreta de notas",
+            "link": "https://www.amazon.com.mx/s/?k=libreta+de+notas&ref=sugsr_0_6&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        },
+        {
+            "query": "agenda",
+            "link": "https://www.amazon.com.mx/s/?k=agenda&ref=sugsr_3_2&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        },
+        {
+            "query": "libreta inteligente",
+            "link": "https://www.amazon.com.mx/s/?k=libreta+inteligente&ref=sugsr_1_5&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        },
+        {
+            "query": "libreta hojas blancas",
+            "link": "https://www.amazon.com.mx/s/?k=libreta+hojas+blancas&ref=sugsr_4_2&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        },
+        {
+            "query": "notebook",
+            "link": "https://www.amazon.com.mx/s/?k=notebook&ref=sugsr_2_3&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        },
+        {
+            "query": "diario",
+            "link": "https://www.amazon.com.mx/s/?k=diario&ref=sugsr_5_2&pd_rd_w=skrhe&pf_rd_p=eb95ac0e-868a-4533-b329-54fd0f5fb615&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=3ec913d2-4306-498f-bea1-bda506bd65e6&pd_rd_wg=mHw0o&qid=1635022267"
+        }
+    ],
+    "pagination": {
+        "total_results": 90000,
+        "current_page": 1,
+        "current_page_link": "https://www.amazon.com.mx/s?k=libreta&qid=1635022267&ref=sr_pg_1",
+        "next_page_link": "https://www.amazon.com.mx/s?k=libreta&qid=1635022267&ref=sr_pg_1&page=2",
+        "total_pages": 7
+    },
+    "refinements": {
+        "delivery": [
+            {
+                "name": "Recíbelo Mañana",
+                "value": "p_90/11829015011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_90%3A11829015011&dc&qid=1635022267&rnid=11829013011&ref=sr_nr_p_90_1"
+            }
+        ],
+        "departments": [
+            {
+                "name": "Cuadernos, Blocs de Notas y Diarios",
+                "value": "n/11601070011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A11601070011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_1"
+            },
+            {
+                "name": "Cuadernos",
+                "value": "n/11601211011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A11601070011%2Cn%3A11601211011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_2"
+            },
+            {
+                "name": "Cuadernos de Espiral",
+                "value": "n/11601213011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A11601070011%2Cn%3A11601213011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_3"
+            },
+            {
+                "name": "Libros",
+                "value": "n/9298576011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9298576011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_4"
+            },
+            {
+                "name": "Libros en Idiomas Extranjeros Extranjeros",
+                "value": "n/9647825011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9298576011%2Cn%3A9647825011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_5"
+            },
+            {
+                "name": "Handmade: Artículos de Papelería",
+                "value": "n/16945334011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A16945334011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_6"
+            },
+            {
+                "name": "Organizadores Personales",
+                "value": "n/12005632011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A12005632011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_7"
+            },
+            {
+                "name": "Tarjeteros",
+                "value": "n/11601170011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A11601170011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_8"
+            },
+            {
+                "name": "Handmade: Ropa, Zapatos y Accesorios",
+                "value": "n/16945237011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A16945237011&dc&qid=1635022267&rnid=15997893011&ref=sr_nr_n_9"
+            },
+            {
+                "name": "Oficina y Papelería",
+                "value": "n/9673844011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=office-products&dc&qid=1635022267&ref=sr_nr_i_10"
+            },
+            {
+                "name": "Electrónicos",
+                "value": "n/9482558011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=electronics&dc&qid=1635022267&ref=sr_nr_i_11"
+            },
+            {
+                "name": "Herramientas y Mejoras del Hogar",
+                "value": "n/9482670011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=hi&dc&qid=1635022267&ref=sr_nr_i_12"
+            },
+            {
+                "name": "Hogar y Cocina",
+                "value": "n/9482593011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=kitchen&dc&qid=1635022267&ref=sr_nr_i_13"
+            },
+            {
+                "name": "Juegos y juguetes",
+                "value": "n/11260442011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=toys&dc&qid=1635022267&ref=sr_nr_i_14"
+            },
+            {
+                "name": "Salud y Cuidado Personal",
+                "value": "n/9482610011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=hpc&dc&qid=1635022267&ref=sr_nr_i_15"
+            },
+            {
+                "name": "Industria y ciencia",
+                "value": "n/11076223011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=industrial&dc&qid=1635022267&ref=sr_nr_i_16"
+            },
+            {
+                "name": "Hecho a mano",
+                "value": "n/16566964011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=handmade&dc&qid=1635022267&ref=sr_nr_i_17"
+            },
+            {
+                "name": "Instrumentos musicales",
+                "value": "n/13848858011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&i=mi&dc&qid=1635022267&ref=sr_nr_i_18"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Estrellas o más",
+                "value": "p_72/7073863011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_72%3A7073863011&dc&qid=1635022267&rnid=7073859011&ref=sr_nr_p_72_1"
+            },
+            {
+                "name": "3 Estrellas o más",
+                "value": "p_72/7073864011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_72%3A7073864011&dc&qid=1635022267&rnid=7073859011&ref=sr_nr_p_72_2"
+            },
+            {
+                "name": "2 Estrellas o más",
+                "value": "p_72/7073865011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_72%3A7073865011&dc&qid=1635022267&rnid=7073859011&ref=sr_nr_p_72_3"
+            },
+            {
+                "name": "1 estrella o más",
+                "value": "p_72/7073866011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_72%3A7073866011&dc&qid=1635022267&rnid=7073859011&ref=sr_nr_p_72_4"
+            }
+        ],
+        "price": [
+            {
+                "name": "Hasta $350",
+                "value": "n:9673844011||p_36/9841539011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_36%3A9841539011&dc&qid=1635022267&rnid=9754432011&ref=sr_nr_p_36_1"
+            },
+            {
+                "name": "$350 a $750",
+                "value": "n:9673844011||p_36/9841541011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_36%3A9841541011&dc&qid=1635022267&rnid=9754432011&ref=sr_nr_p_36_2"
+            },
+            {
+                "name": "$750 a $1500",
+                "value": "n:9673844011||p_36/9841542011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_36%3A9841542011&dc&qid=1635022267&rnid=9754432011&ref=sr_nr_p_36_3"
+            },
+            {
+                "name": "$1500 a $3000",
+                "value": "n:9673844011||p_36/9841540011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_36%3A9841540011&dc&qid=1635022267&rnid=9754432011&ref=sr_nr_p_36_4"
+            },
+            {
+                "name": "$3000 y Más",
+                "value": "n:9673844011||p_36/9841543011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_36%3A9841543011&dc&qid=1635022267&rnid=9754432011&ref=sr_nr_p_36_5"
+            },
+            {
+                "name": "Promociones",
+                "value": "p_n_specials_match/21225665011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_n_specials_match%3A21225665011&dc&qid=1635022267&rnid=21225664011&ref=sr_nr_p_n_specials_match_1"
+            }
+        ],
+        "brand": [
+            {
+                "name": "Tilibra",
+                "value": "n:9673844011||p_89/Tilibra",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ATilibra&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_1"
+            },
+            {
+                "name": "Amazon Basics",
+                "value": "n:9673844011||p_89/Amazon Basics",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AAmazon+Basics&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_2"
+            },
+            {
+                "name": "G4",
+                "value": "n:9673844011||p_89/G4",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AG4&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_3"
+            },
+            {
+                "name": "Paper Junkie",
+                "value": "n:9673844011||p_89/Paper Junkie",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3APaper+Junkie&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_4"
+            },
+            {
+                "name": "ARTEZA",
+                "value": "n:9673844011||p_89/ARTEZA",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AARTEZA&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_5"
+            },
+            {
+                "name": "Danpex",
+                "value": "n:9673844011||p_89/Danpex",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ADanpex&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_6"
+            },
+            {
+                "name": "BY MEXICO",
+                "value": "n:9673844011||p_89/BY MEXICO",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ABY+MEXICO&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_7"
+            },
+            {
+                "name": "MoleskineGlobal Printed ProductsMeadInnovation LineRocketbookFive StarSCRIBEStrathmoreOfidoselCansonOxfordC.R. GibsonBeechmore BooksiScholarBICHilitandClever FoxLa ScraperíaRedlemonElan Publishing CompanyEOOUTBlack n' RedKesoteWANDERINGSGraphiqueCRAYOLARediformEagle",
+                "value": "n:9673844011||undefined",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AMoleskine&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_8"
+            },
+            {
+                "name": "Moleskine",
+                "value": "n:9673844011||p_89/Moleskine",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AMoleskine&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_8"
+            },
+            {
+                "name": "Global Printed Products",
+                "value": "n:9673844011||p_89/Global Printed Products",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AGlobal+Printed+Products&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_9"
+            },
+            {
+                "name": "Mead",
+                "value": "n:9673844011||p_89/Mead",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AMead&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_10"
+            },
+            {
+                "name": "Innovation Line",
+                "value": "n:9673844011||p_89/Innovation Line",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AInnovation+Line&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_11"
+            },
+            {
+                "name": "Rocketbook",
+                "value": "n:9673844011||p_89/Rocketbook",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ARocketbook&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_12"
+            },
+            {
+                "name": "Five Star",
+                "value": "n:9673844011||p_89/Five Star",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AFive+Star&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_13"
+            },
+            {
+                "name": "SCRIBE",
+                "value": "n:9673844011||p_89/SCRIBE",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ASCRIBE&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_14"
+            },
+            {
+                "name": "Strathmore",
+                "value": "n:9673844011||p_89/Strathmore",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AStrathmore&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_15"
+            },
+            {
+                "name": "Ofidosel",
+                "value": "n:9673844011||p_89/Ofidosel",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AOfidosel&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_16"
+            },
+            {
+                "name": "Canson",
+                "value": "n:9673844011||p_89/Canson",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ACanson&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_17"
+            },
+            {
+                "name": "Oxford",
+                "value": "n:9673844011||p_89/Oxford",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AOxford&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_18"
+            },
+            {
+                "name": "C.R. Gibson",
+                "value": "n:9673844011||p_89/C.R. Gibson",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AC.R.+Gibson&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_19"
+            },
+            {
+                "name": "Beechmore Books",
+                "value": "n:9673844011||p_89/Beechmore Books",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ABeechmore+Books&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_20"
+            },
+            {
+                "name": "iScholar",
+                "value": "n:9673844011||p_89/iScholar",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AiScholar&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_21"
+            },
+            {
+                "name": "BIC",
+                "value": "n:9673844011||p_89/BIC",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ABIC&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_22"
+            },
+            {
+                "name": "Hilitand",
+                "value": "n:9673844011||p_89/Hilitand",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AHilitand&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_23"
+            },
+            {
+                "name": "Clever Fox",
+                "value": "n:9673844011||p_89/Clever Fox",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AClever+Fox&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_24"
+            },
+            {
+                "name": "La Scrapería",
+                "value": "n:9673844011||p_89/La Scrapería",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ALa+Scraper%C3%ADa&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_25"
+            },
+            {
+                "name": "Redlemon",
+                "value": "n:9673844011||p_89/Redlemon",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ARedlemon&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_26"
+            },
+            {
+                "name": "Elan Publishing Company",
+                "value": "n:9673844011||p_89/Elan Publishing Company",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AElan+Publishing+Company&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_27"
+            },
+            {
+                "name": "EOOUT",
+                "value": "n:9673844011||p_89/EOOUT",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AEOOUT&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_28"
+            },
+            {
+                "name": "Black n' Red",
+                "value": "n:9673844011||p_89/Black n' Red",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ABlack+n%27+Red&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_29"
+            },
+            {
+                "name": "Kesote",
+                "value": "n:9673844011||p_89/Kesote",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AKesote&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_30"
+            },
+            {
+                "name": "WANDERINGS",
+                "value": "n:9673844011||p_89/WANDERINGS",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AWANDERINGS&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_31"
+            },
+            {
+                "name": "Graphique",
+                "value": "n:9673844011||p_89/Graphique",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AGraphique&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_32"
+            },
+            {
+                "name": "CRAYOLA",
+                "value": "n:9673844011||p_89/CRAYOLA",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ACRAYOLA&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_33"
+            },
+            {
+                "name": "Rediform",
+                "value": "n:9673844011||p_89/Rediform",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3ARediform&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_34"
+            },
+            {
+                "name": "Eagle",
+                "value": "n:9673844011||p_89/Eagle",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_89%3AEagle&dc&qid=1635022267&rnid=11790855011&ref=sr_nr_p_89_35"
+            }
+        ],
+        "nuestras_marcas": [
+            {
+                "name": "Nuestras Marcas",
+                "value": "n:9673844011||p_n_feature_forty-one_browse-bin/18581144011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=n%3A9673844011%2Cp_n_feature_forty-one_browse-bin%3A18581144011&dc&qid=1635022267&rnid=18581143011&ref=sr_nr_p_n_feature_forty-one_browse-bin_1"
+            }
+        ],
+        "estado": [
+            {
+                "name": "Nuevo",
+                "value": "p_n_condition-type/21214164011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_n_condition-type%3A21214164011&dc&qid=1635022267&rnid=21214163011&ref=sr_nr_p_n_condition-type_1"
+            },
+            {
+                "name": "Usado",
+                "value": "p_n_condition-type/21214166011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_n_condition-type%3A21214166011&dc&qid=1635022267&rnid=21214163011&ref=sr_nr_p_n_condition-type_2"
+            }
+        ],
+        "disponibilidad": [
+            {
+                "name": "Incluir agotado",
+                "value": "p_n_availability/9841525011",
+                "link": "https://www.amazon.com.mx/s?k=libreta&rh=p_n_availability%3A9841525011&dc&qid=1635022267&rnid=9841523011&ref=sr_nr_p_n_availability_2"
+            }
+        ]
+    },
+    "ad_blocks": [
+        {
+            "campaign_id": "2243191450501",
+            "brand_logo": "https://m.media-amazon.com/images/S/gladiator-image-upload-prod/7/A1AM78C64UM0Y8/30e5c39bb3345e74f162eccddc50c66b._CR90,88,2301,2428_AC_SX130_SY60_QL70_.jpg",
+            "advertiser_id": "3779158950901",
+            "ad_id": "3779158950901",
+            "link": "https://aax-us-iad.amazon.com/x/c/QmKUB9OFgTXIwi7WYegcDRoAAAF8ruvmHQEAAAH2AYPmaVA/https://www.amazon.com.mx/stores/page/E6166818-1D70-48E5-85D8-BCE4C3376416/?_encoding=UTF8&store_ref=SB_A10266343UGIXK8XCTDWL&pd_rd_plhdr=t&aaxitk=0d9215d4b8cbe68b0d5e4c4829623c7a&hsa_cr_id=1574934480501&lp_asins=B07L3TS1N9%2CB07MVM3BXS%2CB07L44Y91H&lp_query=libreta&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=QLVcF&pf_rd_p=80dc2a3e-3093-49e4-8c26-69024ad1f95c&pd_rd_wg=hlw6d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=9c603209-c7f4-4b45-bf5b-cc11bcbfbcc1",
+            "title": "Organiza tu vida con un Porta Notas.",
+            "store_link": "https://www.amazon.com.mx/stores/page/E6166818-1D70-48E5-85D8-BCE4C3376416/?_encoding=UTF8&store_ref=SB_A10266343UGIXK8XCTDWL&pd_rd_plhdr=t&aaxitk=0d9215d4b8cbe68b0d5e4c4829623c7a&hsa_cr_id=1574934480501&lp_asins=B07L3TS1N9%2CB07MVM3BXS%2CB07L44Y91H&lp_query=libreta&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=QLVcF&pf_rd_p=80dc2a3e-3093-49e4-8c26-69024ad1f95c&pd_rd_wg=hlw6d&pf_rd_r=ZHQ30ZHSXJ2VXN7Y8Q3H&pd_rd_r=9c603209-c7f4-4b45-bf5b-cc11bcbfbcc1",
+            "store_id": "E6166818-1D70-48E5-85D8-BCE4C3376416",
+            "store_name": "Comprar Ofidosel",
+            "products": [
+                {
+                    "asin": "B07L3TS1N9",
+                    "link": "https://www.amazon.com.mx/dp/B07L3TS1N9",
+                    "image": "https://m.media-amazon.com/images/I/81nXP9PvStL._AC_SR180,120_QL70_.jpg",
+                    "title": "Ofidosel Kit Porta Notas Adhesivas Estuche de Notas de Curpiel. Organizador de Escritorio para Oficina, Escuela o Trabajo. Incluye Notas Adheribles de Varios Colores y Separadores. Organizer (Negro)",
+                    "rating": 4.5,
+                    "ratings_total": 47
+                },
+                {
+                    "asin": "B07MVM3BXS",
+                    "link": "https://www.amazon.com.mx/dp/B07MVM3BXS",
+                    "image": "https://m.media-amazon.com/images/I/61znZLOpyWL._AC_SR180,120_QL70_.jpg",
+                    "title": "Ofidosel Kit Porta Notas Adhesivas con Estuche Ecológico. Incluye Notas Adheribles, Separadores, Regla de 12cms y Pluma Ecológica. Para el Hogar, Oficina y Escuela. Organizador Personal de Escritorio",
+                    "rating": 4.5,
+                    "ratings_total": 46
+                },
+                {
+                    "asin": "B07L44Y91H",
+                    "link": "https://www.amazon.com.mx/dp/B07L44Y91H",
+                    "image": "https://m.media-amazon.com/images/I/712qraYZlnL._AC_SR180,120_QL70_.jpg",
+                    "title": "Ofidosel Libreta Clásica con Cubierta y Pasta Dura de Cuero Sintético/Piel Vegana con Banda Elástica y Porta Documentos. Excelente para Universidad, Oficina y Hogar. 14.2 X 21.2 X 1.6 cms (Azul)",
+                    "rating": 4.5,
+                    "ratings_total": 47
+                }
+            ]
+        }
+    ]
+}
