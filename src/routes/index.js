@@ -58,29 +58,30 @@ router.get('/notebook', async (req, res) => {
     res.send(multidata);
 });
 
-//es post, get es para pruebas
 router.get('/item', async (req, res) => {
-//     const itemId = req.body.itemId;
-//     // set up the request parameters
-//     const params = {
-//         api_key: "D45A6AB60EE446FAB204D2114298ED5E",
-//         type: "product",
-//         item_id: itemId,
-//     }
-  
-//   // make the http GET request to BlueCart API
-//   axios.get('https://api.bluecartapi.com/request', { params })
-//     .then(response => {
-  
-//       // print the JSON resy ponse from BlueCart API
-//       const respon = JSON.stringify(response.data, 0, 2);
-//       console.log(itemId);
-//         res.send(respon);
-//     }).catch(error => {
-//       // catch and print the error
-//       console.log(error);
-//     })
+    // ya funciona
+    // const { item_id } = req.query;
+    // const item = await getItem(item_id);
+    // res.send(item);
+
+    //local response
     const { product } = responseOneItemWalmart;
+    console.log(product);
     res.send(product);
 });
+
+const getItem = async (item_id) => {
+    try{
+        const params = {
+            api_key: "D45A6AB60EE446FAB204D2114298ED5E",
+            type: "product",
+            item_id,
+        }
+        const responseItem = await axios.get('https://api.bluecartapi.com/request', { params });
+        const item = JSON.stringify(responseItem.data, 0, 2)
+        return item;
+    } catch (err) {
+        console.log(err);
+    }
+}
 module.exports = router;
