@@ -31,6 +31,7 @@ router.get('/cuadernos/:id', (req, res) => {
 
 router.get('/notebook', async (req, res) => {
     let multidata = [];
+    // TO DO: Mejorar esta shit
     responseamazon.search_results.map((result) => {
          let genericItem = {};
          genericItem.id = result?.asin
@@ -41,7 +42,7 @@ router.get('/notebook', async (req, res) => {
          genericItem.price = result?.price.value;
          genericItem.amazonPrime = result?.is_prime
          genericItem.priceSymbol = result?.price.currency;
-         genericItem.isAmazon = true;
+         genericItem.plataforma = 1;
          multidata.push(genericItem);
      });
     responseWalmart.search_results.map((result) => {
@@ -52,7 +53,7 @@ router.get('/notebook', async (req, res) => {
         genericItem.image = result?.product.main_image;
         genericItem.rating = parseInt(result?.product.rating);
         genericItem.price = result?.offers.primary.price;
-        genericItem.isWalmart = true;
+        genericItem.plataforma = 2;
         multidata.push(genericItem);
     })
     res.send(multidata);
