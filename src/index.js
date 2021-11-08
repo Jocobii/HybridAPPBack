@@ -25,6 +25,8 @@ app.use((req, res, next) => {
 });
 // rutas
 app.use(require('./routes/index'));
+app.use('/productos', require('./routes/productos'));
+app.use('/lista', require('./routes/lista'));
 
 // empezar el servidor
 app.listen(app.get('port'), () => {
