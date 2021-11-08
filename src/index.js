@@ -12,6 +12,13 @@ app.set('port', process.env.PORT || 4000);
 app.use(morgan('dev')); //muestra toda las peticiones al servidor
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+    res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
+    next();
+});
 
 // variables globales
 app.use((req, res, next) => {
@@ -19,6 +26,8 @@ app.use((req, res, next) => {
 });
 // rutas
 app.use(require('./routes/index'));
+app.use('/productos', require('./routes/productos'));
+app.use('/lista', require('./routes/lista'));
 
 // empezar el servidor
 app.listen(app.get('port'), () => {
