@@ -27,6 +27,7 @@ app.use((req, res, next) => {
 app.use(require('./routes/index'));
 app.use('/productos', require('./routes/productos'));
 app.use('/lista', require('./routes/lista'));
+app.use('/login', require('./routes/login'));
 
 // empezar el servidor
 app.listen(app.get('port'), () => {
