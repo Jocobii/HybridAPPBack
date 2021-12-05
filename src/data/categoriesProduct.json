@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Libreta"
+    },
+    {
+        "id": 2,
+        "name": "Lapiz"
+    },
+    {
+        "id": 3,
+        "name": "Pluma"
+    },
+    {
+        "id": 4,
+        "name": "Regla"
+    },
+    {
+        "id": 5,
+        "name": "Crayolas"
+    },
+    {
+        "id": 6,
+        "name": "Otro"
+    }
+]
