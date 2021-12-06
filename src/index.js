@@ -19,6 +19,7 @@ app.use((req, res, next) => {
     res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
     next();
 });
+
 // variables globales
 app.use((req, res, next) => {
     next();
@@ -28,6 +29,7 @@ app.use(require('./routes/index'));
 app.use('/productos', require('./routes/productos'));
 app.use('/lista', require('./routes/lista'));
 app.use('/login', require('./routes/login'));
+app.use('/cotizar', require('./routes/cotizar'));
 
 // empezar el servidor
 app.listen(app.get('port'), () => {

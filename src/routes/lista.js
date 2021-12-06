@@ -65,4 +65,15 @@ router.get('/getCategories', (req, res) => {
     })
 })
 
+router.get('/getListas/:usuarioId', (req, res) => {
+    const { usuarioId } = req.params;
+    pool.query('SELECT * FROM lista WHERE usuario_id = ?', [usuarioId], (err, rows) => {
+        if (!err) {
+            res.json(rows);
+        } else {
+            res.json(err);
+        }
+    })
+})
+
 module.exports = router;
